@@ -4,7 +4,7 @@
 public class BuySellStockTwice {
 
     public static void main(String[] args) {
-        int n = 6;
+        int n = 7;
 
         int[] P = {10, 22, 5, 75, 65, 80};
         int[] R = new int[n];
